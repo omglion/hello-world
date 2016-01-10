@@ -1,4 +1,2 @@
 # hello-world
-test
-
-first commit to a new branch readme-branch
+学习git--创建分支，提交，合并到主干
